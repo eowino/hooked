@@ -1,32 +1,33 @@
 {
-  "name": "hooked",
-  "version": "1.0.0",
-  "description": "movie search app",
-  "keywords": [],
-  "main": "src/index.tsx",
-  "dependencies": {
-    "classnames": "2.2.6",
-    "react": "16.8.4",
-    "react-dom": "16.8.4"
-  },
-  "devDependencies": {
-    "@types/classnames": "2.2.9",
-    "@types/react": "16.8.8",
-    "@types/react-dom": "16.8.2",
-    "react-scripts": "2.1.3",
-    "typescript": "3.3.3",
-    "node-sass": "*"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+    "name": "hooked",
+    "version": "1.0.0",
+    "description": "movie search app",
+    "keywords": [],
+    "homepage": "https://hookd.netlify.com/",
+    "main": "src/index.tsx",
+    "dependencies": {
+        "classnames": "2.2.6",
+        "react": "16.8.4",
+        "react-dom": "16.8.4"
+    },
+    "devDependencies": {
+        "@types/classnames": "2.2.9",
+        "@types/react": "16.8.8",
+        "@types/react-dom": "16.8.2",
+        "react-scripts": "2.1.3",
+        "typescript": "3.3.3",
+        "node-sass": "*"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
 }
